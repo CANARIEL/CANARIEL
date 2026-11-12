@@ -1,5 +1,5 @@
 <div>
-<tittle >WElCOME TRAVELER </tittle>
+<tittle >WELCOME TRAVELER </tittle>
 </div>
 
 
