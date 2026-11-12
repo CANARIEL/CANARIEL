@@ -1,15 +1,22 @@
-# Welcome to  my reposite 
+<div>
+<tittle >WElCOME TRAVELER </tittle>
+</div>
 
 
-- 👋 Hi, I’m @CANARIEL
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-# logica forma  mas facil  y obvia de hacer cualquier cosa
-<!---
-CANARIEL/CANARIEL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div>
+
+
+I'm young for now better of true is while wirting it's first thanks for see my profile I'm developer of java core and backend with SPRING BOOT my first language is SPANISH but ALL my profile be an English without a lot more what can saying all my experience an coding and programming here.
+
+<p> 
+Again try do mistake is very good for you each code each exception is  the better for be  very best
+</p>
+
+<a href="https://www.linkedin.com/in/bryan-mendoza-8675072a0/">my linkedin</a>
+<p> I have a fluently  English  and native spanish </p>
+
+</div>
+
+<p>thank alway available </p>
+
+
